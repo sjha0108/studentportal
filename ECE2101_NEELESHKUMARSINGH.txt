@@ -1,0 +1,14 @@
+Name of the student : NEELESH KUMAR SINGH 
+Class Roll of the student : 01 
+Stream of the student : ECE 
+Your Student ID is : ECE2101
+
+Marks obtained in Math is : 97 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 46 
+Marks obtained in English is : 98 
+
+You have got 504 in total with 100%
+Excellent Performance... You have passed the exam with grade B.

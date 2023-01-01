@@ -1,0 +1,14 @@
+Name of the student : ANKIT KUMAR TIWARY 
+Class Roll of the student : 04 
+Stream of the student : CSE 
+Your Student ID is : CSE2204
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 68 
+Marks obtained in Chemistry is : 98 
+Marks obtained in Biology is : 87 
+Marks obtained in English is : 90 
+
+You have got 536 in total with 89%
+Excellent Performance... You have passed the exam with grade B.
