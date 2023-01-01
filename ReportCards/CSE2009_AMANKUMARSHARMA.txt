@@ -1,0 +1,14 @@
+Name of the student : AMAN KUMAR SHARMA 
+Class Roll of the student : 09 
+Stream of the student : CSE 
+Your Student ID is : CSE2009
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 87 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 99 
+
+You have got 541 in total with 90%
+Outstanding Performance... You have passed the exam with grade A.

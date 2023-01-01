@@ -1,0 +1,14 @@
+Name of the student : SANJEEV KUMAR JAIN 
+Class Roll of the student : 06 
+Stream of the student : ECE 
+Your Student ID is : ECE2106
+
+Marks obtained in Math is : 87 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 86 
+Marks obtained in Biology is : 98 
+Marks obtained in English is : 95 
+
+You have got 545 in total with 109%
+Outstanding Performance... You have passed the exam with grade A.
